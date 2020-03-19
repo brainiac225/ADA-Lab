@@ -20,7 +20,6 @@ void main() {
 		0
 	}
 	,n,e,u,v,i,j;
-	clrscr();
 	printf("\n Enter the number of vertices:");
 	scanf("%d",&n);
 	printf("\n Enter the number of edges:");
