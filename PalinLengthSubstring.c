@@ -19,7 +19,7 @@ int main()
 { 
     char seq[] = "LOOOLOOLOLOLOOLOOL"; 
     int n = strlen(seq); 
-    printf ("The length of the LPS is %d", lps(seq, 0, n-1)); 
+    printf ("The length of the LPS is: %d", lps(seq, 0, n-1)); 
     getchar(); 
     return 0; 
 } 
